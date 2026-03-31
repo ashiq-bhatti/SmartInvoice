@@ -1,0 +1,22 @@
+# Ignore all node_modules everywhere
+**/node_modules/
+
+# Ignore all env files everywhere
+**/.env
+**/.env.local
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
